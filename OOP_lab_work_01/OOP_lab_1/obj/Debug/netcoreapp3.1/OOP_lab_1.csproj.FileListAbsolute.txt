@@ -1,0 +1,14 @@
+C:\проекти Microsoft Visual Studio 2019\OOP_lab_1\OOP_lab_1\bin\Debug\netcoreapp3.1\OOP_lab_1.exe
+C:\проекти Microsoft Visual Studio 2019\OOP_lab_1\OOP_lab_1\bin\Debug\netcoreapp3.1\OOP_lab_1.deps.json
+C:\проекти Microsoft Visual Studio 2019\OOP_lab_1\OOP_lab_1\bin\Debug\netcoreapp3.1\OOP_lab_1.runtimeconfig.json
+C:\проекти Microsoft Visual Studio 2019\OOP_lab_1\OOP_lab_1\bin\Debug\netcoreapp3.1\OOP_lab_1.runtimeconfig.dev.json
+C:\проекти Microsoft Visual Studio 2019\OOP_lab_1\OOP_lab_1\bin\Debug\netcoreapp3.1\OOP_lab_1.dll
+C:\проекти Microsoft Visual Studio 2019\OOP_lab_1\OOP_lab_1\bin\Debug\netcoreapp3.1\OOP_lab_1.pdb
+C:\проекти Microsoft Visual Studio 2019\OOP_lab_1\OOP_lab_1\obj\Debug\netcoreapp3.1\OOP_lab_1.csproj.AssemblyReference.cache
+C:\проекти Microsoft Visual Studio 2019\OOP_lab_1\OOP_lab_1\obj\Debug\netcoreapp3.1\OOP_lab_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\проекти Microsoft Visual Studio 2019\OOP_lab_1\OOP_lab_1\obj\Debug\netcoreapp3.1\OOP_lab_1.AssemblyInfoInputs.cache
+C:\проекти Microsoft Visual Studio 2019\OOP_lab_1\OOP_lab_1\obj\Debug\netcoreapp3.1\OOP_lab_1.AssemblyInfo.cs
+C:\проекти Microsoft Visual Studio 2019\OOP_lab_1\OOP_lab_1\obj\Debug\netcoreapp3.1\OOP_lab_1.csproj.CoreCompileInputs.cache
+C:\проекти Microsoft Visual Studio 2019\OOP_lab_1\OOP_lab_1\obj\Debug\netcoreapp3.1\OOP_lab_1.dll
+C:\проекти Microsoft Visual Studio 2019\OOP_lab_1\OOP_lab_1\obj\Debug\netcoreapp3.1\OOP_lab_1.pdb
+C:\проекти Microsoft Visual Studio 2019\OOP_lab_1\OOP_lab_1\obj\Debug\netcoreapp3.1\OOP_lab_1.genruntimeconfig.cache
